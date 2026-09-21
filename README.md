@@ -15,13 +15,11 @@ This project performs exploratory data analysis (EDA) on a movie dataset. It inc
 
 ## Dataset
 
-The notebook expects the dataset at:
-
 ```text
 data/movies.csv
 ```
 
-The dataset appears to be based on Kaggle's **TMDB 5000 Movie Dataset**. The original Kaggle file is commonly named `tmdb_5000_movies.csv`; rename it to `movies.csv` and place it in the `data` folder to match the notebook's file path.
+Kaggle's **TMDB 5000 Movie Dataset**. The original Kaggle file is commonly named `tmdb_5000_movies.csv`; rename it to `movies.csv` and place it in the `data` folder to match the notebook's file path.
 
 Kaggle: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
