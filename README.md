@@ -96,8 +96,3 @@ pip install -r requirements.txt
 
 The notebook explores movie ratings, genre popularity, and the relationship between popularity and ratings. It also exports an interactive Plotly visualization as `interactive_movie_plot.html`.
 
-## Notes
-
-- Ensure the CSV path matches `data/movies.csv`.
-- This is an exploratory data analysis project; the notebook does not train a machine-learning prediction model.
-- The exact dataset version and license should be confirmed on the Kaggle dataset page before redistribution.
